@@ -1,5 +1,5 @@
 # Automatic-SteamVR-Boot
-Automatically starts Steam in offline/online mode based on network status then starts Steam vrmonitor.exe.
+Automatically starts Steam in offline/online mode based on network status then starts Steam vrmonitor.exe. Initially created for the HP Z Backpack PC to omit some occasional set up steps requiring keyboard/mouse/monitor but should work with any steam VR hardware.
 
 ## Set Up Instructions
 1. Clone this repo
